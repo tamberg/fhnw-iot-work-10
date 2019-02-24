@@ -1,6 +1,6 @@
 # IoT Engineering
-## Hands-on of lesson 10
-For slides and example code, see [lesson 10](../../../fhnw-iot/blob/master/10/README.md)
+## Hands-on of lesson 11
+For slides and example code, see [lesson 11](../../../fhnw-iot/blob/master/11/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
@@ -17,7 +17,7 @@ For slides and example code, see [lesson 10](../../../fhnw-iot/blob/master/10/RE
 On your computer
 * In the hands-on repository [fork for your class](../../network/members), in README.md, click the _GitHub Classroom link_.
 * Once you accept the assessment, you get a personal, private repository URL for your _USER_NAME_:<pre>
-http://github.com/fhnw-iot-CLASS/fhnw-iot-work-10-USER_NAME</pre>
+http://github.com/fhnw-iot-CLASS/fhnw-iot-work-11-USER_NAME</pre>
 
 On your computer or Raspberry Pi
 * Clone the repository<pre>
