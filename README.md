@@ -26,6 +26,6 @@ For slides and example code, see [lesson 10](../../../fhnw-iot/blob/master/10/RE
 ### d) IFTTT Webhook action, 15'
 * Create an IFTTT applet to show the weather on a LED.
 * Design a Web API* to set weather conditions or colors.<br/>
-  (Which would run e.g. on the ESP8266 or a Pi.)
+  (*Which would run e.g. on the ESP8266 or a Pi.)
 * Where would you map weather conditions to colors?
 * Create a Postb.in to receive the IFTTT Webhook call.
