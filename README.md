@@ -6,7 +6,7 @@ For slides and example code, see [lesson 10](../../../fhnw-iot/blob/master/10/RE
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
 ### a) Where is the logic?, 5'
-* Who decides what a scene means in terms of color, the lamp/device, a room/gateway or the backend?
+* Who decides what a scene means in terms of color,<br/>the lamp/device, a room/gateway or the backend?
 * Which information is required to make a decision?
 * Which devices are affected by changing a scene?
 * Which trade-offs does placing the logic involve?
