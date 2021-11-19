@@ -15,7 +15,6 @@ For slides and example code, see [lesson 10](../../../fhnw-iot/blob/master/10/RE
 * Install Node-RED on the Raspberry Pi or your laptop.
 * Create a new flow or import & analyse one from [here](https://flows.nodered.org/?type=flow&num_pages=1).
 * Use the debug node to build your flow step-by-step.
-* Be ready to present your Node-RED flow.
 
 ### c) IFTTT Webhook trigger, 15'
 * Imagine an IFTTT Webhook enabled button device.
